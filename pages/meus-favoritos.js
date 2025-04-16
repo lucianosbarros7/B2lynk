@@ -1,3 +1,3 @@
 export default function MeusFavoritos() {
-  return <div>Página Meus Favoritos</div>;
+  return <div>Página: Meus Favoritos</div>;
 }

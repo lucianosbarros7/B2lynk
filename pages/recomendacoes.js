@@ -1,3 +1,3 @@
 export default function Recomendacoes() {
-  return <div>Página de Recomendações</div>;
+  return <div>Página: Recomendações</div>;
 }
