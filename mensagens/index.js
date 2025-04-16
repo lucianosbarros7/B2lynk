@@ -1,3 +1,3 @@
-export default function MensagensIndex() {
-  return <div>Página de listagem de mensagens</div>;
+export default function Mensagens() {
+  return <div>Página de Mensagens</div>;
 }
