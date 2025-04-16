@@ -1,3 +1,3 @@
-export default function Conversa() {
-  return <div>Conversa Individual</div>;
+export default function MensagemDetalhe() {
+  return <div>Visualizando conversa específica</div>;
 }
